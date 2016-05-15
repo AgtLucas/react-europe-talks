@@ -1,2 +1,3 @@
-# react-europe-talks
+# React Europe Talks
+
 Soon!
